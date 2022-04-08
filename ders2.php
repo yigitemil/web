@@ -11,6 +11,7 @@
 <body>
 
     <?php
+    /* Php versiyon ve deetay bilgisini gösterir */
 
     
     
